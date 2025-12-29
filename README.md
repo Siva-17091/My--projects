@@ -1,1 +1,126 @@
 
+# Telcom Churn Analysis using Power BI
+
+Customer Churn is a major challenge for business, particularly in industries with high competition, such as telecommunications, banking and subscription-based services, To address this issue, this project aims to analyze patterns and key factors contributing to Customer attrition and provide actionable insights for business
+to enhance their retention strategies.
+
+
+## Requirements:
+
+## Hardware Requirements:
+
+Processor: Intel i3 or AMD Ryzen 3 or above.
+
+HDD: 500 GB (If SDD is available in your PC it Good for Fast Better File Transfer!).
+
+Ram: 4gb or above (For better Processing!).
+
+Operating System: Windows, Linux or Mac OS (Totally depends on your preference!).
+
+## Software Requirements:
+
+SQL: MS SQL Server.
+
+Tools: MS SQL Server Management Studio (SSMS), Anaconda Navigator (Access Jupyter NoteBook).
+
+Data Visualization: MS Power BI.
+
+Programming Language: Python.
+
+Python Libraires: Matplotlib, Seaborn, Sci-kit, Numpy, Pandas, Joblib.
+
+
+## Python Libraires Import Packages:
+
+import pandas as pd
+
+import numpy as np
+
+import matplotlib.pyplot as plt
+
+import seaborn as sns
+
+from sklearn.model _ selection import train_test_split
+
+from sklearn.ensemble import RandomForestC1assifier
+
+from sklearn.metrics import classification report,confusion_matrix
+
+from sklearn.preprocessing import LabelEncoder
+
+import joblib
+
+##  About the Project:
+
+For companies in many different sectors, customers attrition is a big problem since keeping current ones is usually more affordable than attracting new ones. customers ending their memberships or services causes a churn than results in lost income and higher marketing costs. Business development and sustainability depend on an awareness of the elements causing turnover and a deployment of sensible retention policies. This research seeks to use sophisticated data analysis and machine learning appoaches to build a model for consumers attrition prediction.
+
+
+## Screenshots
+
+## Dashboard 1: Summary
+
+This Summary Dashboard is been Deployed Which Explains the Overall
+Churn Data Which is been Filtered or ETL process is been done from the Raw Datasets. It includes Details such as Gender, Age Group, State, Internet Type, Payment Method, Contract and Its Types, Tenure Group, Churn Category, Services. Identifies Overall Customers, New Joiners, Total Churn and Churn Rate.
+
+
+
+
+## Total Customers:
+The Visualization Suite include line Stacked Column charts, Stacked
+bar charts cards and slicers for Month-wise Analysis.
+
+
+
+
+## Demographics
+This, Demographics displays the Total Churn by Gender and Total Customers and Churn Rate by Age Group.
+
+
+## Geographic
+This, Geographic represents the Churn rate by State and Services used are represents Churn Rate by Internet Type.
+
+
+## Account Info
+
+In Account Info, Which represents Churn rate by Payment Method, Total Customers and Churn rate by Tenure Group, Churn rate by Contract.
+
+
+## Churn Distribution
+
+Illustrates Churn Distribution by Total Churn by Churn Category and Churn by Services.
+
+## Dashboard 2: Churn Reasons
+
+This Churn Reasons is been Created to identify Total Churners and Filtering Each Churn Reasons into a Total Churn.
+
+
+## Dashboard 3: Prediction
+
+Prediction Dashboard is been deployed by implementing Random Forest
+Algorithm into the Prod_churn table by using Python and Its Libraries with a help of Jupyter Notebook.
+
+## Gender
+
+In this display, Where Churned Customer is been divided into both Male and Female.
+
+## States
+
+The Churned Customers are been divided According to their States.
+
+## Age Group
+
+Also, The Data is been Displayed In Each Age Group Category Which makes to Easier to identify Which Category is been more Churned.
+
+## Marital Status
+
+The Marital Status is been Categorised Wheather, It is Yes or No.
+
+## Tenure Group
+
+This, Tenure Group used to Identify in Particular duration of Months The People who have Churned and Payment Methods are using identify Which Type of Payment Method who have Churned.
+
+## Contract
+
+By, Creating Contract We can able to identify No.of.Churned and it is been divided into 3 parts are Months, One year and Two year.
+
+
