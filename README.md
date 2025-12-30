@@ -95,6 +95,8 @@ In Account Info, Which represents Churn rate by Payment Method, Total Customers 
 
 Illustrates Churn Distribution by Total Churn by Churn Category and Churn by Services.
 
+![image alt](https://github.com/Siva-17091/My--projects/blob/01568350e3cd14e49bee78252ef77f6fb5afff31/Screenshot%205.png)
+
 ## Dashboard 2: Churn Reasons
 
 This Churn Reasons is been Created to identify Total Churners and Filtering Each Churn Reasons into a Total Churn.
