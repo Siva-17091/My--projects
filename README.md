@@ -126,6 +126,8 @@ The Churned Customers are been divided According to their States.
 
 Also, The Data is been Displayed In Each Age Group Category Which makes to Easier to identify Which Category is been more Churned.
 
+![image alt](https://github.com/Siva-17091/My--projects/blob/0bf58ef4cf18331ba99904eaceab34fce9634902/Screenshot%208.png)
+
 ## Marital Status
 
 The Marital Status is been Categorised Wheather, It is Yes or No.
