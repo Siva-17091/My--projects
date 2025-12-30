@@ -78,6 +78,7 @@ bar charts cards and slicers for Month-wise Analysis.
 ## Demographics
 This, Demographics displays the Total Churn by Gender and Total Customers and Churn Rate by Age Group.
 
+![image alt](https://github.com/Siva-17091/My--projects/blob/5e50d56f145829078559850d7352aeb395ce8923/Screenshot%202.png)
 
 ## Geographic
 This, Geographic represents the Churn rate by State and Services used are represents Churn Rate by Internet Type.
