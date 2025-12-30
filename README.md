@@ -132,6 +132,8 @@ Also, The Data is been Displayed In Each Age Group Category Which makes to Easie
 
 The Marital Status is been Categorised Wheather, It is Yes or No.
 
+![image alt](https://github.com/Siva-17091/My--projects/blob/b7a9c80bb50dff84dfbbe968921c6f21c9127366/Screenshot%209.png)
+
 ## Tenure Group
 
 This, Tenure Group used to Identify in Particular duration of Months The People who have Churned and Payment Methods are using identify Which Type of Payment Method who have Churned.
