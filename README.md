@@ -101,6 +101,7 @@ Illustrates Churn Distribution by Total Churn by Churn Category and Churn by Ser
 
 This Churn Reasons is been Created to identify Total Churners and Filtering Each Churn Reasons into a Total Churn.
 
+![image alt](https://github.com/Siva-17091/My--projects/blob/cdb00a3793a4b8cd82b2e3c0dddc3add55a40578/Screenshot%202025-03-17%20212950.png)
 
 ## Dashboard 3: Prediction
 
