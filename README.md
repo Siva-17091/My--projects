@@ -89,6 +89,7 @@ This, Geographic represents the Churn rate by State and Services used are repres
 
 In Account Info, Which represents Churn rate by Payment Method, Total Customers and Churn rate by Tenure Group, Churn rate by Contract.
 
+![image alt](https://github.com/Siva-17091/My--projects/blob/595c87e4be9ba2ee8a33ed6801fd951714ef66f8/Screenshot%204.png)
 
 ## Churn Distribution
 
