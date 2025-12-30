@@ -83,6 +83,7 @@ This, Demographics displays the Total Churn by Gender and Total Customers and Ch
 ## Geographic
 This, Geographic represents the Churn rate by State and Services used are represents Churn Rate by Internet Type.
 
+![image alt](https://github.com/Siva-17091/My--projects/blob/4774e89b2284948067f0f3bb05355f620e98beb1/Screenshot%203.png)
 
 ## Account Info
 
