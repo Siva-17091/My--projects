@@ -120,6 +120,8 @@ In this display, Where Churned Customer is been divided into both Male and Femal
 
 The Churned Customers are been divided According to their States.
 
+![image alt](https://github.com/Siva-17091/My--projects/blob/cbd110724583acf9152e614de3af18a93dd3b70c/Screenshot%207.png)
+
 ## Age Group
 
 Also, The Data is been Displayed In Each Age Group Category Which makes to Easier to identify Which Category is been more Churned.
