@@ -114,6 +114,8 @@ Algorithm into the Prod_churn table by using Python and Its Libraries with a hel
 
 In this display, Where Churned Customer is been divided into both Male and Female.
 
+![image alt](https://github.com/Siva-17091/My--projects/blob/a95cc814156e3f0fc2743d05e655517893a72603/Screenshot%206.png)
+
 ## States
 
 The Churned Customers are been divided According to their States.
