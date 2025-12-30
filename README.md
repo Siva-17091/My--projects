@@ -138,6 +138,8 @@ The Marital Status is been Categorised Wheather, It is Yes or No.
 
 This, Tenure Group used to Identify in Particular duration of Months The People who have Churned and Payment Methods are using identify Which Type of Payment Method who have Churned.
 
+![image alt](https://github.com/Siva-17091/My--projects/blob/d697f3730b0f05241eeac6f64ace07ebebc07cc3/Screenshot%2010.png)
+
 ## Contract
 
 By, Creating Contract We can able to identify No.of.Churned and it is been divided into 3 parts are Months, One year and Two year.
