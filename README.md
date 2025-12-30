@@ -108,6 +108,8 @@ This Churn Reasons is been Created to identify Total Churners and Filtering Each
 Prediction Dashboard is been deployed by implementing Random Forest
 Algorithm into the Prod_churn table by using Python and Its Libraries with a help of Jupyter Notebook.
 
+![image alt](https://github.com/Siva-17091/My--projects/blob/126925aeb7b1f0761a015e475096fb34fa003bbf/Screenshot%202025-03-17%20213021.png)
+
 ## Gender
 
 In this display, Where Churned Customer is been divided into both Male and Female.
