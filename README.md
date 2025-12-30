@@ -62,6 +62,9 @@ For companies in many different sectors, customers attrition is a big problem si
 This Summary Dashboard is been Deployed Which Explains the Overall
 Churn Data Which is been Filtered or ETL process is been done from the Raw Datasets. It includes Details such as Gender, Age Group, State, Internet Type, Payment Method, Contract and Its Types, Tenure Group, Churn Category, Services. Identifies Overall Customers, New Joiners, Total Churn and Churn Rate.
 
+![image alt](https://github.com/Siva-17091/My--projects/blob/1fa462442c71f37cc04d31b2329ba7faab18206a/Screenshot%202025-03-17%20153010.png)
+
+
 
 
 
